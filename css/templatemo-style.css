@@ -230,7 +230,7 @@ hr {
   transform: scale(1.0);
 }
 .portfolio-overlay .fa {
-  border: 1px solid #ffffff;
+  border: 1px solid #2c2c2c;
   border-radius: 0;
   color: #ffffff;
   width: 40px;
@@ -405,6 +405,16 @@ hr {
   margin-bottom: 10px;
   -webkit-transition: all 0.6s ease-in;
           transition: all 0.6s ease-in;
+}
+.tm-contact-title {
+  color: #4d4d4d;
+  text-align: center;
+  font-size: 15px;
+}
+.tm-contact-title-pro {
+  color: #a4a4a4;
+  text-align: center;
+  font-size: 23px;
 }
 .form-control:focus,
  .form-control:hover {
